@@ -44,5 +44,5 @@ Generally when we want to load test a website, we want to select the <b>'Retriev
 </div>
 </li>
 </ul>
-<p >Know <a href="../../../2017/10/24/how-to-get-child-samples-when-embedded-resource-is-checked-in-jmeter">how huge load on website can impact your application's performance here!</a></p>
+<p >Know <a href="../../../2018/04/14/how-website-speed-impacts-businesses">how huge load on website can impact your application's performance here!</a></p>
 </div>

@@ -102,5 +102,5 @@ To find how the system is behaving under certain load conditions, we need an APM
 <li>Test the application under various load scenarios. </li>
 <li>Test with realistic scenarios by adding think time, pacing, etc</li>
 </ul>
-<p class="blog-content"><strong>These are some of the features improved in <a href="whats-new-in-jmeter-5.0"> JMeter 5.0</a>.</strong></p>
+<p class="blog-content"><strong>These are some of the features improved in <a href="../../../2018/10/23/whats-new-in-jmeter"> JMeter 5.0</a>.</strong></p>
 </div>

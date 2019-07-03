@@ -45,7 +45,7 @@ and download the latest version (zip or tgz) and unzip the file to the local fol
 </li>
 <li> Also download the latest version of JAVA, as JMeter is pure JAVA desktop application and setup Java Environment Variable Path.</li>
 <li>Now go to JMeter-bin folder and run jmeter.bat file if it is windows OS and jmeter.sh for Linux and Mac OS.</li>
-<li><a href="/">FrugalTesting</a> uses Apache JMeter 3.3, which has more number of features compared to older.</li>
+<li><a href="https://frugaltesting.com">FrugalTesting</a> uses Apache JMeter 3.3, which has more number of features compared to older.</li>
 </ol>
 <h4 class="blog-subtitle">JMeter 3.3 Features:</h4>
 <ol >

@@ -1,6 +1,6 @@
 ---
 title: "What's new in Jmeter"
-date: 2019-10-23
+date: 2018-10-23
 author: frugaltesting.com
 featured: false
 image: ./new_in_jmeter.png
